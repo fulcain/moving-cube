@@ -1,0 +1,9 @@
+#Dush-Cube{
+    height: 50px;
+    width: 50px;
+    background: red;
+    position: absolute;
+    top:10px;
+    left:10px;
+    transition-duration: .2s;
+}
