@@ -1,9 +1,15 @@
 #Dush-Cube{
     height: 50px;
     width: 50px;
-    background: red;
     position: absolute;
     top:10px;
     left:10px;
-    transition-duration: .2s;
+
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    border-radius: 100px;
+}
+#Dush-Cube img{
+    width: 50px
 }
