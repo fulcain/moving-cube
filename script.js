@@ -43,8 +43,8 @@ window.addEventListener("keydown", (e) => {
 // plays music
 let musicEl = document.querySelector('audio')
 function playMusic(){
-    musicEl.volume = 0.3;
     musicEl.play()
+    musicEl.volume = 0.1;
 }
 
 // random direction
