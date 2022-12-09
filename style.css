@@ -13,3 +13,13 @@
 #Dush-Cube img{
     width: 50px
 }
+.arrow{
+    display: flex;
+    flex-direction: row;
+}
+
+.arrows{
+    background: red;
+    width: 100px;
+    height: 100px;
+}
